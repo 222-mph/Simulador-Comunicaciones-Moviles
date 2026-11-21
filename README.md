@@ -57,7 +57,7 @@ Puedes ver una demostración del simulador en funcionamiento en el siguiente enl
 Este proyecto fue desarrollado con fines exclusivamente académicos para la asignatura de Comunicaciones Móviles. El código es de libre consulta y uso educativo. Si lo utilizas como base para otros proyectos, se agradece una mención o referencia.
 
 ✒️ Autor
-Gerardo de Jesús Hernández Sierra- Desarrollo del simulador y documentación
+Gerardo Hernández - Desarrollo del simulador y documentación
 Facultad de Ingeniería Mecánica y Eléctrica, incorporada a la Universidad Autónoma de Nuevo León.
 9no semestre, Ingeniería en Electrónica y Comunicaciones.
 
